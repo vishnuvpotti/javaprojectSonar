@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XmlData>
+<Person id ="1">
+<FirstName>TestFName1</FirstName> 
+<LastName>TestLname1</LastName> 
+<Age>20</Age>
+<Employment>
+<Employer empNum="1">
+<EmployerName>UIS Company</EmployerName>
+<EmployerAddress>No 4, 8 GTR ST,Sydney</EmployerAddress>
+<StartDate>12-06-2010</StartDate>
+<EndDate>Current</EndDate>
+</Employer>
+</Employment> 
+</Person>
+
+<Person id ="2">
+<FirstName>TestFName2</FirstName> 
+<LastName>TestLname2</LastName> 
+<Age>18</Age> 
+</Person>
+<Person id ="3">
+<FirstName>TestFName3</FirstName> 
+<LastName>TestLname3</LastName> 
+<Age>34</Age> 
+</Person>
+</XmlData>
